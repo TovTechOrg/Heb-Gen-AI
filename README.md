@@ -17,9 +17,6 @@ pip install -r requirements.txt
 ```
 3. **Add your keys to key.env**
 
-# [Your Project Name]
-
-[Project introduction or overview]
 
 ## Custom Solutions and Hosting Services
 
