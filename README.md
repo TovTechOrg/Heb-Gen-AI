@@ -18,7 +18,7 @@ pip install -r requirements.txt
 3. **Add your keys to key.env**
 
 
-## Custom Solutions and Hosting Services
+## Custom Solutions
 
 If you require custom solutions , please don't hesitate to reach out to us. We offer a range of tailored services designed to meet your specific needs. For more information or to get in touch with our team, please visit [tovtech.org](https://tovtech.org). We're here to help you achieve your goals with the support and expertise you need.
 
