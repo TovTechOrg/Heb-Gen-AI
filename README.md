@@ -2,6 +2,8 @@
 ## Hebew Generative AI Guide
 This repository aims to provide tools, examples, and resources to assist in the development of Gen-AI (Generative Artificial Intelligence) applications in Hebrew, with a particular emphasis on working with Large Language Models (LLMs).
 
+[LinkedIn](https://www.linkedin.com/posts/raz-hadas_github-tovtechorgheb-gen-ai-tools-examples-activity-7170801400010981376-NaaL/?utm_source=share&utm_medium=member_desktop) Post Detailing Our Work in This Notebook.
+
 ### Installation
 
 Follow these simple steps to get your development environment set up:
