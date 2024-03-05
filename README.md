@@ -1,10 +1,16 @@
 
+## Hebew Generative AI Guide
+This repository aims to provide tools, examples, and resources to assist in the development of Gen-AI (Generative Artificial Intelligence) applications in Hebrew, with a particular emphasis on working with Large Language Models (LLMs).
+
 ### Installation
 
 Follow these simple steps to get your development environment set up:
 
 1. **Clone the repository**
-2. **install requirements.txt**
+  ```bash
+   git clone https://github.com/TovTechOrg/Heb-Gen-AI.git
+```
+3. **install requirements.txt**
 
 ```bash
 pip install -r requirements.txt
@@ -12,8 +18,3 @@ pip install -r requirements.txt
 3. **Add your keys to key.env**
 
 
-
-A framework with metrics and LLM-generated data to evaluate the performance of your Retrieval-Augmented Generation pipeline
-
-References:
-- https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a
