@@ -19,6 +19,9 @@ pip install -r requirements.txt
 ```
 3. **Add your keys to key.env**
 
+## Star the Repository
+
+If you find this repository helpful, please consider giving it a star :star:. Your support helps us continue to improve and expand our resources for the community. Starring the repository also makes it easier for others to discover and benefit from our work. Thank you for your support!
 
 ## Custom Solutions
 
