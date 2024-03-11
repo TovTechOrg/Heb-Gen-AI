@@ -1,4 +1,6 @@
 
+![1](https://github.com/TovTechOrg/Heb-Gen-AI/assets/65238333/abf7ca33-fe08-4689-a42f-e7511b04f541)
+
 ## Hebew Generative AI Guide
 This repository aims to provide tools, examples, and resources to assist in the development of Gen-AI (Generative Artificial Intelligence) applications in Hebrew, with a particular emphasis on working with Large Language Models (LLMs).
 
