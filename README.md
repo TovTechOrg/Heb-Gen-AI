@@ -1,10 +1,7 @@
 <picture>
-  <source srcset="https://github.com/TovTechOrg/Heb-Gen-AI/assets/65238333/85b8b0be-4857-4de7-be95-6bfce0b56982" media="(prefers-color-scheme: dark)" alt="Description of the image" width="300">
-  <img src="https://github.com/TovTechOrg/Heb-Gen-AI/assets/65238333/85b8b0be-4857-4de7-be95-6bfce0b56982" alt="Description of the image" alt="Description of the image" width="300">
+  <source srcset="https://github.com/TovTechOrg/Heb-Gen-AI/assets/65238333/a68f7617-00c7-470a-b8b6-a4fb4c09fe09" media="(prefers-color-scheme: dark)" alt="Dark Logo" width="250">
+  <img src="https://github.com/TovTechOrg/Heb-Gen-AI/assets/65238333/85b8b0be-4857-4de7-be95-6bfce0b56982" alt="Description of the image" alt="White logo" width="250">
 </picture>
-
-
-
 
 ## Hebew Generative AI Guide
 This repository aims to provide tools, examples, and resources to assist in the development of Gen-AI (Generative Artificial Intelligence) applications in Hebrew, with a particular emphasis on working with Large Language Models (LLMs).
